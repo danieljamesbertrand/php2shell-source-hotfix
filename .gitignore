@@ -1,0 +1,7 @@
+*.log
+*.tmp
+.sudopass
+.env
+.env.*
+*.swp
+.DS_Store
